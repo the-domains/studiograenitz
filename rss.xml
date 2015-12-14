@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[studiograenitz]]></title>
         <description><![CDATA[studiograenitz]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/studiograenitz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 14 Dec 2015 06:45:01 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 14 Dec 2015 17:26:07 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/studiograenitz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/03a902de-a7fd-44b0-bb25-8a0227e357a3.jpg" alt="" title="">]]></description>
-            <link>undefinedfdeddbfe-08a4-4560-896c-7f868486dbf8/index.html</link>
+            <title><![CDATA[Studio Graenitz ]]></title>
+            <description><![CDATA[<article><h1></h1><p>drinking tea and making art</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/59892308f25af844ba681681b57be0c0be24f2c2.png"></article>]]></description>
+            <link>https://thegrid.ai/studiograenitz/fdeddbfe-08a4-4560-896c-7f868486dbf8/index.html</link>
             <guid isPermaLink="false">fdeddbfe-08a4-4560-896c-7f868486dbf8</guid>
-            <pubDate>Mon, 14 Dec 2015 06:44:52 GMT</pubDate>
+            <pubDate>Mon, 14 Dec 2015 17:26:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
