@@ -1,6 +1,6 @@
 name: studiograenitz
 favicon: null
-layout_spectrum: 0.03605
+layout_spectrum: 0.28709
 typography_spectrum: 0.89894
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#4e4c4d'
-    - '#ffffff'
-    - '#e36f46'
     - '#000000'
-    - '#8b8c88'
-  brandStrength: 0.25
-  lightness: 0.9492876755539328
-  saturation: 0.28232362447306514
-  rhythmicContrast: 0
+    - '#ffffff'
+    - '#c5c9d0'
+    - '#787b87'
+    - '#444444'
+  brandStrength: 0.1875
+  lightness: 0.9375
+  saturation: 0.375
+  rhythmicContrast: 0.25
 purpose: []
